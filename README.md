@@ -21,6 +21,8 @@ This repository contains my work for **Task 1** of the Future Skills Internship 
 
 ## 📸 Preview
 
+![Task 1 Screenshot](Screenshots/task1ss.png)
+
 
 
 
